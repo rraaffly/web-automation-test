@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>009 - Login With Remember Me</name>
+   <tag>POSITIVE</tag>
+   <comment></comment>
+   <testCaseGuid>a990ebce-5d16-4262-b22c-ce3605717e3a</testCaseGuid>
+</TestCaseEntity>

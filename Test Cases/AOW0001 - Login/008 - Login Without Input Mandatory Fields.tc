@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>008 - Login Without Input Mandatory Fields</name>
+   <tag>NEGATIVE</tag>
+   <comment></comment>
+   <testCaseGuid>b770b9a0-2211-48d9-82ab-9f9ff9eee456</testCaseGuid>
+</TestCaseEntity>
