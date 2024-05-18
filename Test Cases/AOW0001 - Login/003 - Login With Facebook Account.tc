@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 - Login With Facebook Account</name>
+   <tag>POSITIVE</tag>
+   <comment></comment>
+   <testCaseGuid>389857e4-8cae-442f-bbbf-575dac80ff94</testCaseGuid>
+</TestCaseEntity>
