@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_403_forbidden</name>
+   <tag></tag>
+   <elementGuidId>8dba16f1-8f6d-41ea-a717-71d567fe93a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='signInResultMessage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#signInResultMessage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>85be4144-482c-427f-aa0d-8e5c5409e2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signInResultMessage</value>
+      <webElementGuid>2833db41-a7fd-46bb-8e44-992bcbd9ce54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>or  center invalid</value>
+      <webElementGuid>58f75df9-1de4-43d2-8961-2363beab5cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>403 FORBIDDEN Sorry, connecting to Facebook is currently unavailable. Please try again later.</value>
+      <webElementGuid>7c05caee-8af5-417f-b67c-654fe18361cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signInResultMessage&quot;)</value>
+      <webElementGuid>7811410c-a79b-4a6e-9a37-8dc6cb0e0388</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='signInResultMessage']</value>
+      <webElementGuid>977c92ad-d727-461e-b38f-11505f627539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN WITH FACEBOOK'])[1]/following::label[1]</value>
+      <webElementGuid>65c80aea-d6fc-4a2a-8aef-db0e1fe9b50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[2]/preceding::label[1]</value>
+      <webElementGuid>ede1de5d-a0a3-4c37-b4f2-e26200b00bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/preceding::label[2]</value>
+      <webElementGuid>1cae29dd-ce17-48c9-bd43-699e216bc4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='403 FORBIDDEN Sorry, connecting to Facebook is currently unavailable. Please try again later.']/parent::*</value>
+      <webElementGuid>bc3da4d3-7b8b-48ae-84c1-7fe68d1a15b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>37c54ebd-ec04-451a-8424-5bb7e7e1328c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'signInResultMessage' and (text() = '403 FORBIDDEN Sorry, connecting to Facebook is currently unavailable. Please try again later.' or . = '403 FORBIDDEN Sorry, connecting to Facebook is currently unavailable. Please try again later.')]</value>
+      <webElementGuid>6065f8b6-fc51-43bb-93c9-bb27a1c29210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
